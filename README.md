@@ -1,4 +1,4 @@
-The authors of this code are Alexander J. Barrios, Manami Roy, Nandita Sahajpal, Darwin Tallana, Bella Tobin, Hanneke Wiersema
+The authors of this code are Alexander J. Barrios, Manami Roy, Nandita Sahajpal, Darwin Tallana, Bella Tobin, and Hanneke Wiersema
 
 To cite:
 
