@@ -1,3 +1,5 @@
+# This file contains all the codes used in other jupyter notebooks.
+
 from sage.schemes.elliptic_curves.weierstrass_morphism import *
 S.<a1,a2,a3,a4,a6,d,alp,be,u,r,s,w,z,A1,A2,A3,A4,A6>=QQ[]
 S=S.fraction_field()
