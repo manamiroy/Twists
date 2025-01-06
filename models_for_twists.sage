@@ -1,3 +1,6 @@
+# This file contains all the weierstrass models used in the paper. These models are used in the proof of Theorem 5.1 in the paper. 
+# These models are also used in jupyter notebooks Theorem5_1-d-odd and Theorem5_1-d-even.
+
 F0R0=Ed.change_weierstrass_model(2,0,a1,4*a3) ## Connell's model
 
 ### FR for v(d)=0
